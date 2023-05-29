@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+toml
+torchviz
+torchinfo
+torchsummary
+tensorboard
+opencv-python
+tqdm
+scikit-image
+scikit-learn
+scipy

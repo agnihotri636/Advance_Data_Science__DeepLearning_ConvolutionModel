@@ -1,0 +1,16 @@
+
+max_epochs = 10
+crop_size = 28
+data_root = "/home/hw4/data/MNIST"
+batch_size = 128
+save_epoch = 5
+model_save_path = "./output_dir/MNIST_model"
+tensorboard_log = "./output_dir/MNIST_Logs"
+download = false # do not change this parameter
+
+load = "current"
+
+# optimizer and scheduler parameters
+lr = 1e-4
+min_lr = 1e-8
+weight_decay = 1e-5

@@ -1,0 +1,7 @@
+# test model path
+model_save_path = "./output_dir/MNIST_model/best_checkpoint.ckpt"
+
+# data
+data_root = "./data/MNIST"
+batch_size = 1
+
